@@ -1,11 +1,7 @@
-node_modules
-.env
-.DS_Store
-.eslintrc
-client/dist/main.js.gz
-client/dist/main.js
-coverage/
-node_modules
-functions
 # Local Netlify folder
 .netlify
+.env
+node_modules
+.DS_Store
+.prettierignore
+.prettierrc.json

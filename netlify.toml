@@ -5,3 +5,4 @@ functions = "functions"
   from = '/*'
   to = '/.netlify/functions/:splat'
   status = 200
+
