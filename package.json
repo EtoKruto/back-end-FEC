@@ -1,0 +1,26 @@
+{
+  "name": "back-end-fec",
+  "version": "1.0.0",
+  "description": "back end to FEC",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/netlify-lambda serve server",
+    "build": "./node_modules/.bin/netlify-lambda build server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EtoKruto/back-end-FEC.git"
+  },
+  "author": "Alex Krut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtoKruto/back-end-FEC/issues"
+  },
+  "homepage": "https://github.com/EtoKruto/back-end-FEC#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
